@@ -36,5 +36,4 @@ public class CourierAPIClientConfig {
         factory.setReadTimeout(Duration.ofMillis(200));
         return factory;
     }
-
 }
